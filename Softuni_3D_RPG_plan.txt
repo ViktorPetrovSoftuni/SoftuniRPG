@@ -1,0 +1,57 @@
+Softuni 3D RPG Plan
+
+Name-- TODO: Good name 
+
+3 playable characters--
+	Niko (unlocked after 1 year)
+	Medarovv
+	Stef4o
+	
+Main quest: 
+	Survive 
+
+Side quests:
+	TODO: Add more side quests
+
+Game flow: 
+	Each day starts at 8:15 on the Bus Stop ( spawn point )
+	Game clock is sped up
+	Classes can be skiped ( if there are no tests/examinations )
+	RNG decides if there are tests 
+	Time is slowed down during breaks
+	After school you have N free hours
+	You can use them to go home early ( resting gives passive bonues ), stay at school, do quests or study
+	After that the game loop repeats
+
+Fail condition:
+	You are expelled because of low grades
+	TODO: Add more fail conditions
+
+Achievements:
+	Gold cigarette- smoke 1000 cigarettes
+	Be the best- win the softuni fightclub tournament (TODO: Impliment fighting mechanics)
+	Gara Coctail- craft the Gara Otvara and drink it
+	TODO: Make more achievements
+
+Map concepts:
+	Main Softuni Base ( including surrounding area)
+	Lidl event location
+	Bonus location: Mladost Base for event?
+
+Item concepts and effects:
+	TODO: maybe impliment status effects and S.P.E.C.I.A.L. system? ( similar to FO ??)
+	
+	Strenght
+	Perception
+	Endurance
+	Intelligence
+	Agility
+	Luck
+	
+	You could level up some characteristics by doing activities or with special items
+	Some characteristics can be boosted temporarly ( +1 Perception boost with cigarettes )
+
+Characters:
+	TODO: Add good characters. Tutorial character and Administration are important
+
+
